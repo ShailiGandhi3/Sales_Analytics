@@ -77,3 +77,6 @@ Sales_Analytics/
 ├── Sales_Analytics.pbix
 ├── README.md
 └── .gitignore
+## Dashboard Preview
+
+![Sales Analytics Dashboard](dashboard.png)
