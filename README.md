@@ -75,8 +75,10 @@ The project uses a Star Schema data model.
 Sales_Analytics/
 │
 ├── Sales_Analytics.pbix
+├── dashboard.png
 ├── README.md
-└── .gitignore
+└── .gitignore 
+```
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](dashboard.png)
+![Sales Analytics Dashboard](./dashboard.png)
